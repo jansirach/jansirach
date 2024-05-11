@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jansirach.jansirach" />
 # 🌱 Jan Sirach
 
 **`Digital Nomad (Developer/Photographer/Graphic Designer)`**
